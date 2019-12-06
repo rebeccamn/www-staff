@@ -48,7 +48,7 @@ Contact info is https://owasporg.atlassian.net/servicedesk/customer/portal/7/gro
 * Day 7 – All you can do as a member, i.e. conference and trainings, local meetings – call to action
 * Day 14 - Become a donor
 
-### Memberships Expiring cadence and messaging
+### Memberships Expiring cadence and messaging (currently uploaded into MailChimp)
 * 60 days in advance of expiration – Highlight the benefits of membership, discounts on conference prices,
 able to utilize OWASP email address, member can be a project chapter leader, important mission of
 OWASP, if you’ve downloaded our work consider rejoining
